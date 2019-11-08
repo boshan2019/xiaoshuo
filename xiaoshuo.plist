@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://i0905.com/download/XiaoShuo.ipa</string>
+     <string>http://i0905.com/download/xiaoshuo.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
