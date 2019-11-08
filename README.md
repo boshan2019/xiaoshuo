@@ -1,2 +1,2 @@
 # xiaoshuo
-xiaoshuo update spa
+xiaoshuo ipa update
